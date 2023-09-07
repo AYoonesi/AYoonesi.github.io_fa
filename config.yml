@@ -1,7 +1,14 @@
-baseURL: "https://en.AYoonesi.ir/"
-title: Alireza Yoonesi
+baseURL: "https://fa.AYoonesi.ir/"
+title: علیرضا یونسی
 paginate: 5
 theme: PaperMod
+
+languageCode: fa
+defaultContentLanguage: fa
+languages:
+  fa:
+    languagedirection: rtl
+    weight: 1
 
 publishDir: docs
 
@@ -18,10 +25,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Alireza Yoonesi
+  title: علیرضا یونسی
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, Alireza Yoonesi, Python, Programming, Politics, Law, Private Law, War]
-  author: Alireza Yoonesi
+  author: علیرضا یونسی
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -61,18 +68,18 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Alireza Yoonesi
-    subtitle: "Researcher, Developer, Farmer, and part-time Writer | In English & Persian | Interested in Private Law, Aviation, Economics, Politics & Intl' Rel., History, AI, and Finance"
+    title: علیرضا یونسی
+    subtitle: "محقق، توسعه‌دهنده، کشاورز، و نویسنده پاره‌وقت | علاقمند به حقوق خصوصی، هوافضا، اقتصاد، سیاست و روابط بین‌الملل، تاریخ، هوش مصنوعی، و فایننس"
     imageUrl: "images/me.jpg"
     imageWidth: 220
     imageHeight: 220
     imageTitle: Alireza Yoonesi
     buttons:
-      - name: Blog
+      - name: بلاگ
         url: posts
-      - name: Tags
+      - name: تگ‌ها
         url: tags
-      - name: Books
+      - name: کتاب‌ها
         url: tags/books
 
   # home-info mode
@@ -106,7 +113,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/AYoonesi/AYoonesi.github.io/content"
+    URL: "https://github.com/AYoonesi/AYoonesi.github.io_fa/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -120,30 +127,31 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
     - identifier: about
-      name: about
+      name: درباره
       url: /about/
       weight: 10
     - identifier: contact
-      name: contact
+      name: تماس با من
       url: /contact/
       weight: 10
     - identifier: archives
-      name: archives
+      name: آرشیو
       url: /archives/
       weight: 10
     - identifier: search
-      name: search
+      name: سرچ
       url: /search/
       weight: 20
     - identifier: google-dev
-      name: google dev
+      name: گوگل دولوپر
       url: https://g.dev/AYoonesi
       weight: 30
     - identifier: certs
-      name: certs
+      name: گواهی‌ها
       url: https://en.ayoonesi.ir/cert/
       weight: 40
     
