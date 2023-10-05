@@ -1,7 +1,7 @@
 baseURL: "https://fa.AYoonesi.ir/"
 title: علیرضا یونسی
 paginate: 5
-theme: PaperMod
+theme: papermodd
 
 languageCode: fa
 defaultContentLanguage: fa
@@ -26,8 +26,8 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: علیرضا یونسی
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, Alireza Yoonesi, Python, Programming, Politics, Law, Private Law, War]
+  description: "Discover a versatile world of expertise! I'm a Researcher, Developer, Farmer, and part-time Writer, fluent in English and Persian. Delve into insights on Private Law, Aviation, Economics, Politics & Intl’ Relations, History, AI, and Finance in my captivating content. Join me in exploring the intersection of knowledge and curiosity."
+  keywords: [Researcher, Developer, Farmer, Part-time Writer, English and Persian Content, Private Law, Aviation, Economics, Politics & International Relations, History, AI (Artificial Intelligence), Finance, Expertise, Multilingual Blogger, Curiosity, Knowledge Intersection, Versatile Skills, Blogging Insights, Diverse Interests, Captivating Content]
   author: علیرضا یونسی
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -61,13 +61,13 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "صفحه اول"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: علیرضا یونسی
     subtitle: "محقق، توسعه‌دهنده، کشاورز، و نویسنده پاره‌وقت | علاقمند به حقوق خصوصی، هوافضا، اقتصاد، سیاست و روابط بین‌الملل، تاریخ، هوش مصنوعی، و فایننس"
     imageUrl: "images/me.jpg"
@@ -84,8 +84,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog, where I write things
+    Title: "علیرضا یونسی \U0001F44B"
+    Content: "محقق، توسعه‌دهنده، کشاورز، و نویسنده پاره‌وقت | علاقمند به حقوق خصوصی، هوافضا، اقتصاد، سیاست و روابط بین‌الملل، تاریخ، هوش مصنوعی، و فایننس"
+    imageUrl: "images/me250x250.webp"
 
   socialIcons:
     - name: twitter
