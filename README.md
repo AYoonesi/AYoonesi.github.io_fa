@@ -1,48 +1,62 @@
-# L' Instit
+## Err for theme/PaperMod
 
-## ayoonesi.github.io
+Use this [link](https://confluence.atlassian.com/bbkb/fix-error-fatal-no-url-found-for-submodule-path-in-gitmodules-1188400518.html). Or this text:
 
----
+# Fix error "fatal: No url found for submodule path in .gitmodules"
 
-My Blog built using [Hugo](https://gohugo.io) and [Next Theme](https://github.com/elkan1788/hugo-theme-next)
+## Purpose
 
-L' Instit refers to the last time I was truly happy. (:
+The purpose of this KB article is to provide context as to why this issue may occur and how to address this.
 
-L' instit (The School Teacher) portrayed by Gerard Klein (Victor Novak) is a character of pure fiction. A Knight Rider 2000 for students, he always arrives on his motorbike, and you are sure he will solve all the problems around and maybe more.
+## Diagnosis
 
-![L' Instit Serie - Victor Novak](https://ayoonesi.github.io/novak.jpg "L' instit (The School Teacher) portrayed by Gerard Klein (Victor Novak) is a character of pure fiction. A Knight Rider 2000 for students, he always arrives on his motorbike, and you are sure he will solve all the problems around and maybe more.")
+- A user updates their **.gitmodules** file to point to a new path for their submodule in another repository
 
-## To-Do:
-+ [X] Static Pages of About, Contact, 404
-+ [X] Links of Github, ZhiHu, Nutz, JFinal, Wendal, LiaoXueFeng
-+ [X] Commenting System
-+ [X] Deleting dummy posts
-+ [X] Post: Python In 10 minutes:
-    + [X] Part I
-    + [X] Part II
-    + [ ] Part III
-+ [X] Post: چرا هیچکی حق نداره جلوی من به خوارهزاده‌ام بگه باهوش؟
-+ [X] Post: لوایتان
-+ [X] Post: چرا برنامه‌نویسا از دکترا باهوش‌ترن؟
-+ [X] Post: [Get Unlimited Medium Articles Using Python](https://medium.com/@AYoonesi/get-unlimited-medium-articles-using-python-23b157230c05)
-+ [X] Post: [Best You Can Do To Improve Your Concentration](https://medium.com/@AYoonesi/best-you-can-do-to-improve-your-concentration-e172b9ed80)
-+ [X] Post: [The Truth About Why Programmers Are More Intelligent Than Doctors?](https://medium.com/@AYoonesi/the-truth-about-why-programmers-are-more-intelligent-than-doctors-c5563fc45db5)
-+ [X] Post: [Did The War In Iraq Create Jobs For Americans?](https://medium.com/@AYoonesi/did-the-war-in-iraq-create-jobs-for-americans-654bd03a388a)
-+ [X] Post: [Why You Need To Ditch Calling Your Boy/Girl Smart?](https://medium.com/just-to-talk-about/why-you-need-to-ditch-calling-your-boy-girl-smart-19f6cd4152fd)
-+ [X] Project: [YouTube WordCloud with Flask in Python](https://github.com/AYoonesi/yt-cloud)
-+ [X] Medium: [What Was Shakespeare Thinking Back Then?](https://medium.com/@AYoonesi/what-was-shakespeare-thinking-back-then-fc415873eb73)
-+ [X] Project: [My Medium Shit](https://github.com/AYoonesi/medium)
-+ [X] Post: [Iranian Kamikaze Drone — Shahed 136](https://medium.com/@AYoonesi/iranian-kamikaze-drone-shahed-136-808d9d89609)
-+ [X] Page: Books -- Updated!
-+ [X] Post: [Calvin](https://vrgl.ir/KJfr8)
-+ [ ] Series: Web Scraping
-    + [X] 01 Intro
-    + [ ] 02 ?
-+ [X] Post: [معافیت از مجازات بهره در قانون ایران](https://vrgl.ir/V8XHi)
-+ [X] Post: [زمینه‌ها و احتمالات پیش روی بحران اوکراین](https://ayoonesi.github.io/fa/post/ukraine-russia/)
-+ [X] Page: [Podcasts](https://ayoonesi.github.io/podcasts/)
-+ [X] Pages: [fa/Books](https://ayoonesi.github.io/fa/books/) and [fa/Podcasts](https://ayoonesi.github.io/fa/podcasts/) added
+- The user then attempts to update the git submodules in the remote repository (either using GIT or in Bitbucket Cloud Pipelines) by using some variation of the following command:
+  
+  git submodule update --init --recursive
+  
 
-+ [ ] Post: [The reform of food subsidies under the Raisi administration by *Djavad Salehi-Isfahani*](https://djavadsalehi.com/2022/05/19/the-reform-of-food-subsidies-under-the-raisi-administration/)
-+ [ ] Post: Democracy in Switzerland + H. Bashirie on voting and sword and stuff
-+ [ ] Post III
+- They are then met with the following error message - which points to the old path that was previously referenced in their .gitmodules file:
+  
+  fatal: No url found for submodule path 'x' in .gitmodules
+  
+
+## Procedure
+
+Essentially, the root cause of the issue is that either the old submodule path remains cached (and must be be removed) or a path does not exist (and must be created) before the submodules may be updated.
+
+**To check this, you will need to perform the following on your local repository:**
+
+1. Check the currently configured git submodules by executing the following to verify the submodule path status:
+  
+  **git submodule status**
+  
+
+**<u>If the old path is present:</u>  
+ **You will need to execute the following command to remove this from the cache:
+
+**git rm --cached old/path**
+
+**<u>If no path is present:</u>**  
+ To create the mapping reference, enter the following into your .gitmodules file in the root of your repository:
+
+```
+[submodule "path_to_submodule"] 
+  path = path_to_submodule 
+  url = git://url-of-source/
+```
+
+**`path_to_submodule:`** is the actual path within your repository (relative to the root) where the submodule will be used**`url-of-source:`** is the URL of the original repository that contains the submodule's files.
+
+2. Once the above has been actioned, double-check the path configuration before updating the submodules:
+  
+  **git submodule status**
+  
+
+3. Once complete, execute the same command as prior - you should no longer see the error message:
+  
+  **git submodule update --init --recursive**
+  
+
+4. Now that the .gitmodules file has been updated with the new path/old path has been removed from cache/updated in the config - you will need to commit the changes and push them to your remote repository to resolve the issue.
