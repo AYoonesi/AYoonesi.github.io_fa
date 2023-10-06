@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on علیرضا یونسی</title>
     <link>https://fa.AYoonesi.ir/tags/</link>
     <description>Recent content in Tags on علیرضا یونسی</description>
+    <image>
+      <title>علیرضا یونسی</title>
+      <url>https://fa.AYoonesi.ir/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fa.AYoonesi.ir/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
-    <lastBuildDate>Thu, 07 Sep 2023 05:38:15 +0330</lastBuildDate><atom:link href="https://fa.AYoonesi.ir/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>first</title>
-      <link>https://fa.AYoonesi.ir/tags/first/</link>
-      <pubDate>Thu, 07 Sep 2023 05:38:15 +0330</pubDate>
-      
-      <guid>https://fa.AYoonesi.ir/tags/first/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 05 Sep 2023 03:08:28 +0330</lastBuildDate><atom:link href="https://fa.AYoonesi.ir/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alireza Yoonesi</title>
       <link>https://fa.AYoonesi.ir/tags/alireza-yoonesi/</link>
@@ -89,389 +85,866 @@
     </item>
     
     <item>
-      <title>books</title>
-      <link>https://fa.AYoonesi.ir/tags/books/</link>
-      <pubDate>Thu, 31 Aug 2023 11:30:03 +0000</pubDate>
+      <title>اطاعت از حکومت</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D8%B7%D8%A7%D8%B9%D8%AA-%D8%A7%D8%B2-%D8%AD%DA%A9%D9%88%D9%85%D8%AA/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/books/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D8%B7%D8%A7%D8%B9%D8%AA-%D8%A7%D8%B2-%D8%AD%DA%A9%D9%88%D9%85%D8%AA/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>page</title>
-      <link>https://fa.AYoonesi.ir/tags/page/</link>
-      <pubDate>Thu, 31 Aug 2023 11:30:03 +0000</pubDate>
+      <title>انقلاب</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/page/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>private law</title>
-      <link>https://fa.AYoonesi.ir/tags/private-law/</link>
-      <pubDate>Thu, 31 Aug 2023 11:30:03 +0000</pubDate>
+      <title>پیروی سیاسی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%BE%DB%8C%D8%B1%D9%88%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/private-law/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D9%BE%DB%8C%D8%B1%D9%88%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>anthropology</title>
-      <link>https://fa.AYoonesi.ir/tags/anthropology/</link>
-      <pubDate>Fri, 18 Aug 2023 11:30:03 +0000</pubDate>
+      <title>تاریخ</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/anthropology/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bronisław Malinowski</title>
-      <link>https://fa.AYoonesi.ir/tags/bronis%C5%82aw-malinowski/</link>
-      <pubDate>Fri, 18 Aug 2023 11:30:03 +0000</pubDate>
+      <title>توماس هابز</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D9%88%D9%85%D8%A7%D8%B3-%D9%87%D8%A7%D8%A8%D8%B2/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/bronis%C5%82aw-malinowski/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D9%88%D9%85%D8%A7%D8%B3-%D9%87%D8%A7%D8%A8%D8%B2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Culture</title>
-      <link>https://fa.AYoonesi.ir/tags/culture/</link>
-      <pubDate>Fri, 18 Aug 2023 11:30:03 +0000</pubDate>
+      <title>جنگ داخلی انگلستان</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AC%D9%86%DA%AF-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/culture/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AC%D9%86%DA%AF-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>review</title>
-      <link>https://fa.AYoonesi.ir/tags/review/</link>
-      <pubDate>Fri, 18 Aug 2023 11:30:03 +0000</pubDate>
+      <title>حکومت ناقص</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AD%DA%A9%D9%88%D9%85%D8%AA-%D9%86%D8%A7%D9%82%D8%B5/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/review/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AD%DA%A9%D9%88%D9%85%D8%AA-%D9%86%D8%A7%D9%82%D8%B5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>sex</title>
-      <link>https://fa.AYoonesi.ir/tags/sex/</link>
-      <pubDate>Fri, 18 Aug 2023 11:30:03 +0000</pubDate>
+      <title>خشونت و آشوب</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AE%D8%B4%D9%88%D9%86%D8%AA-%D9%88-%D8%A2%D8%B4%D9%88%D8%A8/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/sex/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AE%D8%B4%D9%88%D9%86%D8%AA-%D9%88-%D8%A2%D8%B4%D9%88%D8%A8/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>sociology</title>
-      <link>https://fa.AYoonesi.ir/tags/sociology/</link>
-      <pubDate>Fri, 18 Aug 2023 11:30:03 +0000</pubDate>
+      <title>سیاست</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/sociology/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>chaos prevention</title>
-      <link>https://fa.AYoonesi.ir/tags/chaos-prevention/</link>
-      <pubDate>Fri, 07 Jul 2023 15:30:03 +0000</pubDate>
+      <title>علوم سیاسی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%B9%D9%84%D9%88%D9%85-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/chaos-prevention/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%B9%D9%84%D9%88%D9%85-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>English civil war</title>
-      <link>https://fa.AYoonesi.ir/tags/english-civil-war/</link>
-      <pubDate>Fri, 07 Jul 2023 15:30:03 +0000</pubDate>
+      <title>فلسفه سیاسی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%81%D9%84%D8%B3%D9%81%D9%87-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/english-civil-war/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D9%81%D9%84%D8%B3%D9%81%D9%87-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>governmental authority</title>
-      <link>https://fa.AYoonesi.ir/tags/governmental-authority/</link>
-      <pubDate>Fri, 07 Jul 2023 15:30:03 +0000</pubDate>
+      <title>قرارداد اجتماعی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/governmental-authority/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>imperfect rulers</title>
-      <link>https://fa.AYoonesi.ir/tags/imperfect-rulers/</link>
-      <pubDate>Fri, 07 Jul 2023 15:30:03 +0000</pubDate>
+      <title>کتاب</title>
+      <link>https://fa.AYoonesi.ir/tags/%DA%A9%D8%AA%D8%A7%D8%A8/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/imperfect-rulers/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%DA%A9%D8%AA%D8%A7%D8%A8/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Leviathan</title>
-      <link>https://fa.AYoonesi.ir/tags/leviathan/</link>
-      <pubDate>Fri, 07 Jul 2023 15:30:03 +0000</pubDate>
+      <title>لوایتان</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%84%D9%88%D8%A7%DB%8C%D8%AA%D8%A7%D9%86/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/leviathan/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D9%84%D9%88%D8%A7%DB%8C%D8%AA%D8%A7%D9%86/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>political obedience</title>
-      <link>https://fa.AYoonesi.ir/tags/political-obedience/</link>
-      <pubDate>Fri, 07 Jul 2023 15:30:03 +0000</pubDate>
+      <title>لویاتان</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%84%D9%88%DB%8C%D8%A7%D8%AA%D8%A7%D9%86/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/political-obedience/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D9%84%D9%88%DB%8C%D8%A7%D8%AA%D8%A7%D9%86/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>revolution</title>
-      <link>https://fa.AYoonesi.ir/tags/revolution/</link>
-      <pubDate>Fri, 07 Jul 2023 15:30:03 +0000</pubDate>
+      <title>نظریه قرارداد اجتماعی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/revolution/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>social contract theory</title>
-      <link>https://fa.AYoonesi.ir/tags/social-contract-theory/</link>
-      <pubDate>Fri, 07 Jul 2023 15:30:03 +0000</pubDate>
+      <title>هابز</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%87%D8%A7%D8%A8%D8%B2/</link>
+      <pubDate>Thu, 13 Jul 2023 20:16:12 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/social-contract-theory/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D9%87%D8%A7%D8%A8%D8%B2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Thomas Hobbes</title>
-      <link>https://fa.AYoonesi.ir/tags/thomas-hobbes/</link>
-      <pubDate>Fri, 07 Jul 2023 15:30:03 +0000</pubDate>
+      <title>آئین دادرسی مدنی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A2%D8%A6%DB%8C%D9%86-%D8%AF%D8%A7%D8%AF%D8%B1%D8%B3%DB%8C-%D9%85%D8%AF%D9%86%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/thomas-hobbes/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A2%D8%A6%DB%8C%D9%86-%D8%AF%D8%A7%D8%AF%D8%B1%D8%B3%DB%8C-%D9%85%D8%AF%D9%86%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>violence</title>
-      <link>https://fa.AYoonesi.ir/tags/violence/</link>
-      <pubDate>Fri, 07 Jul 2023 15:30:03 +0000</pubDate>
+      <title>اراده</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D8%B1%D8%A7%D8%AF%D9%87/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/violence/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D8%B1%D8%A7%D8%AF%D9%87/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Constitution</title>
-      <link>https://fa.AYoonesi.ir/tags/constitution/</link>
-      <pubDate>Wed, 18 Jan 2023 11:30:03 +0000</pubDate>
+      <title>اراده باطنی و اراده ظاهری</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B7%D9%86%DB%8C-%D9%88-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%B8%D8%A7%D9%87%D8%B1%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/constitution/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B7%D9%86%DB%8C-%D9%88-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%B8%D8%A7%D9%87%D8%B1%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Duke University</title>
-      <link>https://fa.AYoonesi.ir/tags/duke-university/</link>
-      <pubDate>Wed, 18 Jan 2023 11:30:03 +0000</pubDate>
+      <title>اصول حقوقی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D8%B5%D9%88%D9%84-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/duke-university/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D8%B5%D9%88%D9%84-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>EconTalk</title>
-      <link>https://fa.AYoonesi.ir/tags/econtalk/</link>
-      <pubDate>Wed, 18 Jan 2023 11:30:03 +0000</pubDate>
+      <title>تجدید نظر در دعاوی حقوقی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%AC%D8%AF%DB%8C%D8%AF-%D9%86%D8%B8%D8%B1-%D8%AF%D8%B1-%D8%AF%D8%B9%D8%A7%D9%88%DB%8C-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/econtalk/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%AC%D8%AF%DB%8C%D8%AF-%D9%86%D8%B8%D8%B1-%D8%AF%D8%B1-%D8%AF%D8%B9%D8%A7%D9%88%DB%8C-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mike Munger</title>
-      <link>https://fa.AYoonesi.ir/tags/mike-munger/</link>
-      <pubDate>Wed, 18 Jan 2023 11:30:03 +0000</pubDate>
+      <title>تطابق اراده باطنی و ظاهری</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B7%D8%A7%D8%A8%D9%82-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B7%D9%86%DB%8C-%D9%88-%D8%B8%D8%A7%D9%87%D8%B1%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/mike-munger/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B7%D8%A7%D8%A8%D9%82-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B7%D9%86%DB%8C-%D9%88-%D8%B8%D8%A7%D9%87%D8%B1%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Munger</title>
-      <link>https://fa.AYoonesi.ir/tags/munger/</link>
-      <pubDate>Wed, 18 Jan 2023 11:30:03 +0000</pubDate>
+      <title>تعارض اراده باطنی و اراده ظاهری</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B9%D8%A7%D8%B1%D8%B6-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B7%D9%86%DB%8C-%D9%88-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%B8%D8%A7%D9%87%D8%B1%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/munger/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B9%D8%A7%D8%B1%D8%B6-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B7%D9%86%DB%8C-%D9%88-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%B8%D8%A7%D9%87%D8%B1%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Podcast</title>
-      <link>https://fa.AYoonesi.ir/tags/podcast/</link>
-      <pubDate>Wed, 18 Jan 2023 11:30:03 +0000</pubDate>
+      <title>حقوق</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AD%D9%82%D9%88%D9%82/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/podcast/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AD%D9%82%D9%88%D9%82/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Political Science</title>
-      <link>https://fa.AYoonesi.ir/tags/political-science/</link>
-      <pubDate>Wed, 18 Jan 2023 11:30:03 +0000</pubDate>
+      <title>حقوق خصوصی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AD%D9%82%D9%88%D9%82-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/political-science/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AD%D9%82%D9%88%D9%82-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Russo</title>
-      <link>https://fa.AYoonesi.ir/tags/russo/</link>
-      <pubDate>Wed, 18 Jan 2023 11:30:03 +0000</pubDate>
+      <title>حقوق مدنی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AD%D9%82%D9%88%D9%82-%D9%85%D8%AF%D9%86%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/russo/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AD%D9%82%D9%88%D9%82-%D9%85%D8%AF%D9%86%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>United States</title>
-      <link>https://fa.AYoonesi.ir/tags/united-states/</link>
-      <pubDate>Wed, 18 Jan 2023 11:30:03 +0000</pubDate>
+      <title>حکم فسخ</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AD%DA%A9%D9%85-%D9%81%D8%B3%D8%AE/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/united-states/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AD%DA%A9%D9%85-%D9%81%D8%B3%D8%AE/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Drones</title>
-      <link>https://fa.AYoonesi.ir/tags/drones/</link>
-      <pubDate>Fri, 28 Oct 2022 11:30:03 +0000</pubDate>
+      <title>دعوای تأیید فسخ قرارداد</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AF%D8%B9%D9%88%D8%A7%DB%8C-%D8%AA%D8%A3%DB%8C%DB%8C%D8%AF-%D9%81%D8%B3%D8%AE-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/drones/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AF%D8%B9%D9%88%D8%A7%DB%8C-%D8%AA%D8%A3%DB%8C%DB%8C%D8%AF-%D9%81%D8%B3%D8%AE-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Iran</title>
-      <link>https://fa.AYoonesi.ir/tags/iran/</link>
-      <pubDate>Fri, 28 Oct 2022 11:30:03 +0000</pubDate>
+      <title>صدور حکم</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%B5%D8%AF%D9%88%D8%B1-%D8%AD%DA%A9%D9%85/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/iran/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%B5%D8%AF%D9%88%D8%B1-%D8%AD%DA%A9%D9%85/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kamikaze</title>
-      <link>https://fa.AYoonesi.ir/tags/kamikaze/</link>
-      <pubDate>Fri, 28 Oct 2022 11:30:03 +0000</pubDate>
+      <title>فقه</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%81%D9%82%D9%87/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/kamikaze/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D9%81%D9%82%D9%87/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Russia</title>
-      <link>https://fa.AYoonesi.ir/tags/russia/</link>
-      <pubDate>Fri, 28 Oct 2022 11:30:03 +0000</pubDate>
+      <title>قوانین حقوقی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/russia/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Shahed 136</title>
-      <link>https://fa.AYoonesi.ir/tags/shahed-136/</link>
-      <pubDate>Fri, 28 Oct 2022 11:30:03 +0000</pubDate>
+      <title>مفاهیم حقوقی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/shahed-136/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ukraine</title>
-      <link>https://fa.AYoonesi.ir/tags/ukraine/</link>
-      <pubDate>Fri, 28 Oct 2022 11:30:03 +0000</pubDate>
+      <title>اثرات قرارداد</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D8%AB%D8%B1%D8%A7%D8%AA-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/ukraine/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D8%AB%D8%B1%D8%A7%D8%AA-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Articles</title>
-      <link>https://fa.AYoonesi.ir/tags/articles/</link>
-      <pubDate>Wed, 19 Oct 2022 11:30:03 +0000</pubDate>
+      <title>اجرای قرارداد</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/articles/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Medium</title>
-      <link>https://fa.AYoonesi.ir/tags/medium/</link>
-      <pubDate>Wed, 19 Oct 2022 11:30:03 +0000</pubDate>
+      <title>انحلال قرارداد</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D9%86%D8%AD%D9%84%D8%A7%D9%84-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/medium/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D9%86%D8%AD%D9%84%D8%A7%D9%84-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>https://fa.AYoonesi.ir/tags/programming/</link>
-      <pubDate>Wed, 19 Oct 2022 11:30:03 +0000</pubDate>
+      <title>انعقاد پیمان</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D9%BE%DB%8C%D9%85%D8%A7%D9%86/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/programming/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D9%BE%DB%8C%D9%85%D8%A7%D9%86/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pyhton</title>
-      <link>https://fa.AYoonesi.ir/tags/pyhton/</link>
-      <pubDate>Wed, 19 Oct 2022 11:30:03 +0000</pubDate>
+      <title>انعقاد قراردادها</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%D9%87%D8%A7/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/pyhton/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%D9%87%D8%A7/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Shakespeare</title>
-      <link>https://fa.AYoonesi.ir/tags/shakespeare/</link>
-      <pubDate>Wed, 19 Oct 2022 11:30:03 +0000</pubDate>
+      <title>اهمیت اراده در انعقاد قرارداد</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D9%87%D9%85%DB%8C%D8%AA-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/shakespeare/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D9%87%D9%85%DB%8C%D8%AA-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Word Cloud</title>
-      <link>https://fa.AYoonesi.ir/tags/word-cloud/</link>
-      <pubDate>Wed, 19 Oct 2022 11:30:03 +0000</pubDate>
+      <title>تحلیل حقوقی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/word-cloud/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Beatrice</title>
-      <link>https://fa.AYoonesi.ir/tags/beatrice/</link>
-      <pubDate>Fri, 29 Apr 2022 11:30:03 +0000</pubDate>
+      <title>تطابق اراده‌ها در انعقاد قرارداد</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B7%D8%A7%D8%A8%D9%82-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/beatrice/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B7%D8%A7%D8%A8%D9%82-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dante</title>
-      <link>https://fa.AYoonesi.ir/tags/dante/</link>
-      <pubDate>Fri, 29 Apr 2022 11:30:03 +0000</pubDate>
+      <title>تعهدات حقوقی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/dante/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Devine Comedy</title>
-      <link>https://fa.AYoonesi.ir/tags/devine-comedy/</link>
-      <pubDate>Fri, 29 Apr 2022 11:30:03 +0000</pubDate>
+      <title>تفسیر مفاد قرارداد</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D9%81%D8%B3%DB%8C%D8%B1-%D9%85%D9%81%D8%A7%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/tags/devine-comedy/</guid>
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D9%81%D8%B3%DB%8C%D8%B1-%D9%85%D9%81%D8%A7%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>حقوق ایران</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AD%D9%82%D9%88%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AD%D9%82%D9%88%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>عقد و اعتبار</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%B9%D9%82%D8%AF-%D9%88-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%B9%D9%82%D8%AF-%D9%88-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>فقه امامیه</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%81%D9%82%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C%D9%87/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%81%D9%82%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C%D9%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>مباحث حقوقی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</link>
+      <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB-%D8%AD%D9%82%D9%88%D9%82%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>انسان‌شناسی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/</link>
+      <pubDate>Sun, 05 Feb 2023 16:45:57 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>پیمان اجتماعی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%BE%DB%8C%D9%85%D8%A7%D9%86-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/</link>
+      <pubDate>Sun, 05 Feb 2023 16:45:57 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%BE%DB%8C%D9%85%D8%A7%D9%86-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>حکومت مستحکم</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AD%DA%A9%D9%88%D9%85%D8%AA-%D9%85%D8%B3%D8%AA%D8%AD%DA%A9%D9%85/</link>
+      <pubDate>Sun, 05 Feb 2023 16:45:57 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AD%DA%A9%D9%88%D9%85%D8%AA-%D9%85%D8%B3%D8%AA%D8%AD%DA%A9%D9%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>حکومت معنوی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AD%DA%A9%D9%88%D9%85%D8%AA-%D9%85%D8%B9%D9%86%D9%88%DB%8C/</link>
+      <pubDate>Sun, 05 Feb 2023 16:45:57 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AD%DA%A9%D9%88%D9%85%D8%AA-%D9%85%D8%B9%D9%86%D9%88%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>رژیم سلطنتی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%B1%DA%98%DB%8C%D9%85-%D8%B3%D9%84%D8%B7%D9%86%D8%AA%DB%8C/</link>
+      <pubDate>Sun, 05 Feb 2023 16:45:57 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%B1%DA%98%DB%8C%D9%85-%D8%B3%D9%84%D8%B7%D9%86%D8%AA%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>مشروعیت الهی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%DB%8C%D8%AA-%D8%A7%D9%84%D9%87%DB%8C/</link>
+      <pubDate>Sun, 05 Feb 2023 16:45:57 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%DB%8C%D8%AA-%D8%A7%D9%84%D9%87%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>مشروعیت قانونی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%DB%8C%D8%AA-%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C/</link>
+      <pubDate>Sun, 05 Feb 2023 16:45:57 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%DB%8C%D8%AA-%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>اجرای حکم خارجی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%AD%DA%A9%D9%85-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%AD%DA%A9%D9%85-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>اضطرار</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>بهره</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A8%D9%87%D8%B1%D9%87/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A8%D9%87%D8%B1%D9%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>بهره در قانون اسلامی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A8%D9%87%D8%B1%D9%87-%D8%AF%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A8%D9%87%D8%B1%D9%87-%D8%AF%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>پرداخت خسارت تاخیر تادیه ارز</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D8%AA%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D8%B2/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D8%AA%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D8%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>تبصره 2 ماده 595</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%A8%D8%B5%D8%B1%D9%87-2-%D9%85%D8%A7%D8%AF%D9%87-595/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%A8%D8%B5%D8%B1%D9%87-2-%D9%85%D8%A7%D8%AF%D9%87-595/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>تبصره 3 ماده 595</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%A8%D8%B5%D8%B1%D9%87-3-%D9%85%D8%A7%D8%AF%D9%87-595/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%A8%D8%B5%D8%B1%D9%87-3-%D9%85%D8%A7%D8%AF%D9%87-595/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>تعریف بهره</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B9%D8%B1%DB%8C%D9%81-%D8%A8%D9%87%D8%B1%D9%87/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B9%D8%B1%DB%8C%D9%81-%D8%A8%D9%87%D8%B1%D9%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>خسارت تاخیر تادیه</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D8%AA%D8%A7%D8%AF%DB%8C%D9%87/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D8%AA%D8%A7%D8%AF%DB%8C%D9%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>خسارت تاخیر تأدیه ارز</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D8%AA%D8%A3%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D8%B2/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D8%AA%D8%A3%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D8%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ربا</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%B1%D8%A8%D8%A7/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%B1%D8%A8%D8%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>رباگیرنده</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%B1%D8%A8%D8%A7%DA%AF%DB%8C%D8%B1%D9%86%D8%AF%D9%87/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%B1%D8%A8%D8%A7%DA%AF%DB%8C%D8%B1%D9%86%D8%AF%D9%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ماده 522 آیین دادرسی مدنی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D8%A7%D8%AF%D9%87-522-%D8%A2%DB%8C%DB%8C%D9%86-%D8%AF%D8%A7%D8%AF%D8%B1%D8%B3%DB%8C-%D9%85%D8%AF%D9%86%DB%8C/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D8%A7%D8%AF%D9%87-522-%D8%A2%DB%8C%DB%8C%D9%86-%D8%AF%D8%A7%D8%AF%D8%B1%D8%B3%DB%8C-%D9%85%D8%AF%D9%86%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ماده 595 تعزیرات</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D8%A7%D8%AF%D9%87-595-%D8%AA%D8%B9%D8%B2%DB%8C%D8%B1%D8%A7%D8%AA/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D8%A7%D8%AF%D9%87-595-%D8%AA%D8%B9%D8%B2%DB%8C%D8%B1%D8%A7%D8%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ماده 595 ق.م.ا</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D8%A7%D8%AF%D9%87-595-%D9%82.%D9%85.%D8%A7/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D8%A7%D8%AF%D9%87-595-%D9%82.%D9%85.%D8%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>معافیت از مجازات</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%D8%A7%D8%B2-%D9%85%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%D8%A7%D8%B2-%D9%85%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>معافیت از مجازات ربا</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%D8%A7%D8%B2-%D9%85%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D8%B1%D8%A8%D8%A7/</link>
+      <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%D8%A7%D8%B2-%D9%85%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D8%B1%D8%A8%D8%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>برنامه‌نویسی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%D9%86%D9%88%DB%8C%D8%B3%DB%8C/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%D9%86%D9%88%DB%8C%D8%B3%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>پایتون</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>تست ایدز</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B3%D8%AA-%D8%A7%DB%8C%D8%AF%D8%B2/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B3%D8%AA-%D8%A7%DB%8C%D8%AF%D8%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>تست‌های پزشکی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B3%D8%AA%D9%87%D8%A7%DB%8C-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B3%D8%AA%D9%87%D8%A7%DB%8C-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>تشخیص بیماری‌ها</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C%D9%87%D8%A7/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C%D9%87%D8%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>تفسیر نتایج تست</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AA%D9%81%D8%B3%DB%8C%D8%B1-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%AA%D8%B3%D8%AA/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AA%D9%81%D8%B3%DB%8C%D8%B1-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%AA%D8%B3%D8%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>دقت تست‌های پزشکی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AF%D9%82%D8%AA-%D8%AA%D8%B3%D8%AA%D9%87%D8%A7%DB%8C-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AF%D9%82%D8%AA-%D8%AA%D8%B3%D8%AA%D9%87%D8%A7%DB%8C-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>دیتا ساینس</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AF%DB%8C%D8%AA%D8%A7-%D8%B3%D8%A7%DB%8C%D9%86%D8%B3/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AF%DB%8C%D8%AA%D8%A7-%D8%B3%D8%A7%DB%8C%D9%86%D8%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>علم داده</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%B9%D9%84%D9%85-%D8%AF%D8%A7%D8%AF%D9%87/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%B9%D9%84%D9%85-%D8%AF%D8%A7%D8%AF%D9%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>مفاهیم پزشکی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>مفهوم تست دقیق</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D9%81%D9%87%D9%88%D9%85-%D8%AA%D8%B3%D8%AA-%D8%AF%D9%82%DB%8C%D9%82/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D9%81%D9%87%D9%88%D9%85-%D8%AA%D8%B3%D8%AA-%D8%AF%D9%82%DB%8C%D9%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>مفهوم تست مثبت</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D9%81%D9%87%D9%88%D9%85-%D8%AA%D8%B3%D8%AA-%D9%85%D8%AB%D8%A8%D8%AA/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D9%81%D9%87%D9%88%D9%85-%D8%AA%D8%B3%D8%AA-%D9%85%D8%AB%D8%A8%D8%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>مفهوم تست منفی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%D9%81%D9%87%D9%88%D9%85-%D8%AA%D8%B3%D8%AA-%D9%85%D9%86%D9%81%DB%8C/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%D9%81%D9%87%D9%88%D9%85-%D8%AA%D8%B3%D8%AA-%D9%85%D9%86%D9%81%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>نتایج تست پزشکی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%AA%D8%B3%D8%AA-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/</link>
+      <pubDate>Wed, 05 Oct 2022 19:51:54 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%AA%D8%B3%D8%AA-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ادبیات ایتالیایی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7%DB%8C%DB%8C/</link>
+      <pubDate>Sun, 05 Jun 2022 16:29:45 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7%DB%8C%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>بئاتریس پورتیناری</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%A8%D8%A6%D8%A7%D8%AA%D8%B1%DB%8C%D8%B3-%D9%BE%D9%88%D8%B1%D8%AA%DB%8C%D9%86%D8%A7%D8%B1%DB%8C/</link>
+      <pubDate>Sun, 05 Jun 2022 16:29:45 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%A8%D8%A6%D8%A7%D8%AA%D8%B1%DB%8C%D8%B3-%D9%BE%D9%88%D8%B1%D8%AA%DB%8C%D9%86%D8%A7%D8%B1%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>دانته آلیگیری</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%AF%D8%A7%D9%86%D8%AA%D9%87-%D8%A2%D9%84%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C/</link>
+      <pubDate>Sun, 05 Jun 2022 16:29:45 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%AF%D8%A7%D9%86%D8%AA%D9%87-%D8%A2%D9%84%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>رنسانس</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%B1%D9%86%D8%B3%D8%A7%D9%86%D8%B3/</link>
+      <pubDate>Sun, 05 Jun 2022 16:29:45 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%B1%D9%86%D8%B3%D8%A7%D9%86%D8%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>زندگی دانته</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%B2%D9%86%D8%AF%DA%AF%DB%8C-%D8%AF%D8%A7%D9%86%D8%AA%D9%87/</link>
+      <pubDate>Sun, 05 Jun 2022 16:29:45 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%B2%D9%86%D8%AF%DA%AF%DB%8C-%D8%AF%D8%A7%D9%86%D8%AA%D9%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>سفر دانته</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%B3%D9%81%D8%B1-%D8%AF%D8%A7%D9%86%D8%AA%D9%87/</link>
+      <pubDate>Sun, 05 Jun 2022 16:29:45 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%B3%D9%81%D8%B1-%D8%AF%D8%A7%D9%86%D8%AA%D9%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>شاعر ایتالیایی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D8%B4%D8%A7%D8%B9%D8%B1-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7%DB%8C%DB%8C/</link>
+      <pubDate>Sun, 05 Jun 2022 16:29:45 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D8%B4%D8%A7%D8%B9%D8%B1-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7%DB%8C%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>فرهنگ</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%81%D8%B1%D9%87%D9%86%DA%AF/</link>
+      <pubDate>Sun, 05 Jun 2022 16:29:45 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%81%D8%B1%D9%87%D9%86%DA%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>کمدی الهی</title>
+      <link>https://fa.AYoonesi.ir/tags/%DA%A9%D9%85%D8%AF%DB%8C-%D8%A7%D9%84%D9%87%DB%8C/</link>
+      <pubDate>Sun, 05 Jun 2022 16:29:45 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%DA%A9%D9%85%D8%AF%DB%8C-%D8%A7%D9%84%D9%87%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>میراث ادبی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%85%DB%8C%D8%B1%D8%A7%D8%AB-%D8%A7%D8%AF%D8%A8%DB%8C/</link>
+      <pubDate>Sun, 05 Jun 2022 16:29:45 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%85%DB%8C%D8%B1%D8%A7%D8%AB-%D8%A7%D8%AF%D8%A8%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>نمادیک کمدی الهی</title>
+      <link>https://fa.AYoonesi.ir/tags/%D9%86%D9%85%D8%A7%D8%AF%DB%8C%DA%A9-%DA%A9%D9%85%D8%AF%DB%8C-%D8%A7%D9%84%D9%87%DB%8C/</link>
+      <pubDate>Sun, 05 Jun 2022 16:29:45 -0400</pubDate>
+      
+      <guid>https://fa.AYoonesi.ir/tags/%D9%86%D9%85%D8%A7%D8%AF%DB%8C%DA%A9-%DA%A9%D9%85%D8%AF%DB%8C-%D8%A7%D9%84%D9%87%DB%8C/</guid>
       <description></description>
     </item>
     
