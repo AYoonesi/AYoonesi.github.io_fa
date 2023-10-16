@@ -17,7 +17,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-L85TQ866DT
 
 minify:
   disableXML: true
@@ -55,14 +55,14 @@ params:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: "images/favicon.ico"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon16x16: "images/favicon-16x16.png"
+    favicon32x32: "images/favicon-32x32.png"
+    apple_touch_icon: "images/apple-touch-icon.png"
+    # safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "صفحه اول"
-    icon: /apple-touch-icon.png
+    icon: images/apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
@@ -102,7 +102,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-L85TQ866DT"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -142,6 +142,10 @@ menu:
     - identifier: archives
       name: آرشیو
       url: /archives/
+      weight: 20
+    - identifier: tags
+      name: تگ‌ها
+      url: /tags/
       weight: 10
     - identifier: search
       name: سرچ
@@ -151,10 +155,18 @@ menu:
       name: گوگل دولوپر
       url: https://g.dev/AYoonesi
       weight: 30
+    - identifier: google-cloud
+      name: گوگل کلود اسکیلز
+      url: https://www.cloudskillsboost.google/public_profiles/4fb8b8d9-6cd6-4f30-a28f-a8b9cd660127
+      weight: 30
     - identifier: certs
       name: گواهی‌ها
       url: https://en.ayoonesi.ir/cert/
       weight: 40
+    - identifier: english
+      name: نسخه انگلیسی
+      url: https://en.ayoonesi.ir/
+      weight: 50
     
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
