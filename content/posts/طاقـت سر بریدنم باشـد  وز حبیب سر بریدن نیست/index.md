@@ -25,7 +25,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "delegation-of-imperial-iran-persia-to-the-league-of-nations-v0-2quwsmr1dfza1.jpg" # image path/url
+    image: "intro.jpg" # image path/url
     alt: "Delegation of Imperial Iran (Persia) to the League of Nations in Geneva, Switzerland, 1311 (1932/1933). Third from the right is Foroughi." # alt text
     caption: "هیئت نمایندگی ایران در جامعه ملل در ژنو سوئیس، ۱۳۱۱ (۱۹۳۲/۱۹۳۳). سوم از راست فروغی است." # display caption under cover
     relative: false # when using page bundles set this to true
