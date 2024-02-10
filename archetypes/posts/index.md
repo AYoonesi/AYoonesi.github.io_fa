@@ -32,6 +32,6 @@ cover:
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/AYoonesi/AYoonesi.github.io_fa/tree/main/content"
-    Text: "Suggest Changes" # edit text
+    Text: "پیشنهاد تغییرات" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
