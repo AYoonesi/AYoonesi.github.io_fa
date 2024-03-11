@@ -26,6 +26,7 @@ _testmain.go
 
 # I added these:
 *.Identifier
+
 # content.backup
 
 assets/jsconfig.json
