@@ -161,7 +161,7 @@ menu:
       weight: 30
     - identifier: certs
       name: گواهی‌ها
-      url: https://en.ayoonesi.ir/cert/
+      url: https://cert.ayoonesi.ir/
       weight: 40
     - identifier: english
       name: نسخه انگلیسی
