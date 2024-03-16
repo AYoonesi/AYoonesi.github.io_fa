@@ -27,7 +27,7 @@ UseHugoToc: true
 cover:
     image: "intro.jpg" # image path/url
     alt: "Delegation of Imperial Iran (Persia) to the League of Nations in Geneva, Switzerland, 1311 (1932/1933). Third from the right is Foroughi." # alt text
-    caption: "هیئت نمایندگی ایران در جامعه ملل در ژنو سوئیس، ۱۳۱۱ (۱۹۳۲/۱۹۳۳). سوم از راست فروغی است." # display caption under cover
+    caption: "هیئت نمایندگی ایران در جامعه ملل در ژنو سوئیس، ۱۳۱۱ (۱۹۳۲/۱۹۳۳). سوم از چپ فروغی است." # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
