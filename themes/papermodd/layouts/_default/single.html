@@ -36,6 +36,41 @@
   {{- end }}
 
   <footer class="post-footer">
+    <style>
+      .float-container {
+      /* border: 3px solid #fff; */
+      padding: 20px;
+  }
+
+  .float-child {
+      /* width: 50%; */
+      float: left;
+      padding: 8px;
+      background: var(--code-bg);
+    border: 1px solid var(--border);
+      /* border: 2px solid red; */
+  } 
+</style>
+
+<hr/>
+<!-- Text Section -->
+<div class="text-section" style="margin-bottom: 30px; text-align: center;">
+  <h2 style="font-size: 32px; color: #1C2833; font-weight: 700; letter-spacing: 1px; margin: 0; line-height: 1.2;">
+    دسترسی آسان
+  </h2>
+  <p style="font-size: 18px; color: #5D6D7E; margin-top: 15px; max-width: 600px; line-height: 1.6; margin-left: auto; margin-right: auto;text-align: justify;">
+    همچنین می‌توانید با اسکن کد QR زیر، به راحتی به این مقاله دسترسی پیدا کنید. تنها کافی است دوربین گوشی هوشمند خود را به سمت کد بگیرید تا بلافاصله به محتوا هدایت شده و تجربه مطالعه‌ای روان و بی‌وقفه در هر دستگاهی داشته باشید.
+  </p>
+</div>
+
+<!-- QR Code Section -->
+<div class="paginav" style="display: flex; justify-content: center; align-items: center;">
+  <div class="float-child">
+    <div class="blue" style="padding: 12px; background-color: #F7F9F9; border-radius: 12px; box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.08);">
+      <img src="https://api.qrserver.com/v1/create-qr-code/?data={{ .Page.Permalink }}&size=350x350" alt="QR Code" style="max-width: 250px;">
+    </div>
+  </div>
+</div>
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}
