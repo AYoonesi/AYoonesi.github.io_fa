@@ -18,14 +18,15 @@
             {{ with (.Get "title") -}}
                 {{ . }}
             {{- end -}}
-            {{- if or (.Get "caption") (.Get "attr") -}}<p>
+            {{- if or (.Get "caption") (.Get "attr") -}}<p style="text-align: center;">
                 {{- .Get "caption" | markdownify -}}
                 {{- with .Get "attrlink" }}
-                    <a href="{{ . }}">
+                        <a href="{{ . }}">
                 {{- end -}}
                 {{- .Get "attr" | markdownify -}}
                 {{- if .Get "attrlink" }}</a>{{ end }}</p>
             {{- end }}
+            
         </figcaption>
     {{- end }}
 </figure>
