@@ -99,6 +99,8 @@ params:
       url: "https://www.linkedin.com/in/AYoonesi/"
     - name: kaggle
       url: https://www.kaggle.com/ayoonesi
+    - name: mastadoon
+      url: https://sciences.social/@ayoonesi
 
   analytics:
     google:
