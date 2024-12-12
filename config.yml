@@ -26,7 +26,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: علیرضا یونسی
-  description: "Discover a versatile world of expertise! I'm a Researcher, Developer, Farmer, and part-time Writer, fluent in English and Persian. Delve into insights on Private Law, Aviation, Economics, Politics & Intl’ Relations, History, AI, and Finance in my captivating content. Join me in exploring the intersection of knowledge and curiosity."
+  description: "دانش‌پژوه حقوق تعهدات، روش‌های جایگزین حل اختلاف و حقوق تجارت بین‌الملل | نویسنده دوزبانه | پیشینه متنوع: تکنولوژی، کشاورزی و اقتصاد"
   keywords: [علیرضا یونسی, حقوق, علوم‌انسانی, علوم انسانی,  یونسی, علیرضا, علی‌رضا, علی‌رضا یونسی, پایتون, حقوق, حقوق خصوصی, دانشجو, محقق, برنامه‌نویسی, Researcher, Developer, Farmer, Part-time Writer, English and Persian Content, Private Law, Aviation, Economics, Politics & International Relations, History, AI (Artificial Intelligence), Finance, Expertise, Multilingual Blogger, Curiosity, Knowledge Intersection, Versatile Skills, Blogging Insights, Diverse Interests, Captivating Content]
   author: علیرضا یونسی
   # author: ["Me", "You"] # multiple authors
@@ -99,7 +99,7 @@ params:
       url: "https://www.linkedin.com/in/AYoonesi/"
     - name: kaggle
       url: https://www.kaggle.com/ayoonesi
-    - name: mastadoon
+    - name: mastodon
       url: https://sciences.social/@ayoonesi
 
   analytics:
