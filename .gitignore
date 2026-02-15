@@ -26,6 +26,8 @@ _testmain.go
 
 # I added these:
 *.Identifier
+resources/_gen/
+public/
 
 # content.backup
 

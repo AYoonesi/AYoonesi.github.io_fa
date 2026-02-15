@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "این جستار با نگاهی عمیق به چالش‌های اخلاقی در حرفه حقوق، به بررسی نقش و مسئولیت‌های اخلاقی وکلا و قضات در جامعه حقوقی می‌پردازد. نویسنده با تکیه بر آرای فیلسوفانی چون کانت و هانا آرنت، و با اشاره به معمای اخلاقی تراموا، به تحلیل دوگانه‌های اخلاقی همچون وظیفه یا مصلحت و حقیقت یا مصلحت می‌پردازد. این پژوهش با استناد به نظریات دکتر کاتوزیان و بررسی مفهوم ابتذال شر، اهمیت تصمیم‌گیری اخلاقی در نظام قضایی و نقش حیاتی قضات و وکلا در برقراری عدالت را مورد واکاوی قرار می‌دهد."
-canonicalURL: "https://canonical.url/to/page"
+# canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -25,7 +25,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "DALL·E 2025-01-05 12.52.28 - A conceptual illustration representing ethical approaches to everyday challenges, inspired by Kant's philosophy of morality. The image features a sere.webp" # image path/url
+    image: "illustration.webp" # image path/url
     alt: "<alt text>" # alt text
     caption: "این تصویر که توسط ChatGPT خلق شده است، به بررسی تصمیم‌گیری اخلاقی با الهام از فلسفه اخلاق کانت می‌پردازد و یک دو راهی نمادین بین وظیفه و وسوسه را به نمایش می‌گذارد."  # display caption under cover
     relative: false # when using page bundles set this to true
