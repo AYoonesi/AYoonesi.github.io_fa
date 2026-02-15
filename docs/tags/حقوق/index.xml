@@ -2,49 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>حقوق on علیرضا یونسی | برنامه‌نویس و محقق علاقمند به حقوق و علوم‌انسانی</title>
-    <link>https://fa.AYoonesi.ir/tags/%D8%AD%D9%82%D9%88%D9%82/</link>
+    <link>http://localhost:5555/tags/%D8%AD%D9%82%D9%88%D9%82/</link>
     <description>Recent content in حقوق on علیرضا یونسی | برنامه‌نویس و محقق علاقمند به حقوق و علوم‌انسانی</description>
     <image>
       <title>علیرضا یونسی | برنامه‌نویس و محقق علاقمند به حقوق و علوم‌انسانی</title>
-      <url>https://fa.AYoonesi.ir/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://fa.AYoonesi.ir/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:5555/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:5555/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
-    <lastBuildDate>Mon, 16 Oct 2023 14:33:52 -0400</lastBuildDate><atom:link href="https://fa.AYoonesi.ir/tags/%D8%AD%D9%82%D9%88%D9%82/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 May 2025 00:17:06 +0330</lastBuildDate><atom:link href="http://localhost:5555/tags/%D8%AD%D9%82%D9%88%D9%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>معامله با شیطان / لایحه موت‌کورت زوری</title>
+      <link>http://localhost:5555/posts/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%D8%A8%D8%A7-%D8%B4%DB%8C%D8%B7%D8%A7%D9%86/</link>
+      <pubDate>Tue, 27 May 2025 00:17:06 +0330</pubDate>
+      
+      <guid>http://localhost:5555/posts/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%D8%A8%D8%A7-%D8%B4%DB%8C%D8%B7%D8%A7%D9%86/</guid>
+      <description>شرح یک حماقت</description>
+    </item>
+    
+    <item>
+      <title>شرح مکاسب - کتاب البیع - جلسه اول</title>
+      <link>http://localhost:5555/posts/%D8%B4%D8%B1%D8%AD-%D9%85%DA%A9%D8%A7%D8%B3%D8%A8-%D8%AC%D9%84%D8%B3%D9%87-%D8%A7%D9%88%D9%84/</link>
+      <pubDate>Fri, 28 Mar 2025 22:37:43 +0330</pubDate>
+      
+      <guid>http://localhost:5555/posts/%D8%B4%D8%B1%D8%AD-%D9%85%DA%A9%D8%A7%D8%B3%D8%A8-%D8%AC%D9%84%D8%B3%D9%87-%D8%A7%D9%88%D9%84/</guid>
+      <description>در مباحث معاملات، کتاب البیع از ویژگی خاصی برخوردار هست؛ همونطور که مرحوم کاتوزیان می‌گفتند می‌شه گفت قواعد عمومی عقود را فقها در کتاب البیع شرح دادند. برای مثال، کتاب البیع، با بسیاری از ابواب معاملات در ارتباط تنگاتنگ هست، مثلا در اجاره، ضمانات، پس تسلط بر کتاب البیع یعنی تسلط بر معاملات.</description>
+    </item>
+    
     <item>
       <title>در توجیه و نقد حق وتو: یک بررسی اجمالی</title>
-      <link>https://fa.AYoonesi.ir/posts/%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%DB%8C%D9%87-%D9%88-%D9%86%D9%82%D8%AF-%D8%AD%D9%82-%D9%88%D8%AA%D9%88-%DB%8C%DA%A9-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%A7%D8%AC%D9%85%D8%A7%D9%84%DB%8C/</link>
+      <link>http://localhost:5555/posts/%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%DB%8C%D9%87-%D9%88-%D9%86%D9%82%D8%AF-%D8%AD%D9%82-%D9%88%D8%AA%D9%88-%DB%8C%DA%A9-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%A7%D8%AC%D9%85%D8%A7%D9%84%DB%8C/</link>
       <pubDate>Mon, 16 Oct 2023 14:33:52 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/posts/%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%DB%8C%D9%87-%D9%88-%D9%86%D9%82%D8%AF-%D8%AD%D9%82-%D9%88%D8%AA%D9%88-%DB%8C%DA%A9-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%A7%D8%AC%D9%85%D8%A7%D9%84%DB%8C/</guid>
+      <guid>http://localhost:5555/posts/%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%DB%8C%D9%87-%D9%88-%D9%86%D9%82%D8%AF-%D8%AD%D9%82-%D9%88%D8%AA%D9%88-%DB%8C%DA%A9-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%A7%D8%AC%D9%85%D8%A7%D9%84%DB%8C/</guid>
       <description>این نوشتار مفهوم حق وتو را در سازمان ملل متحد مورد بحث قرار داده و نقدهایی به وجود این مفهوم ارائه می‌دهد. مفهوم حق وتو شاید از ابتدای شکل‌گیری اندیشه شورای امنیت محل بحث و مجادله بوده باشد و چنین دیالوگ‌های گاه زننده اخیر نمی‌نمایند، اما این موضوع دلیلی مستدل بر عبث بودن چنین بحث‌هایی نیست چراکه علم یا بهتر از آن «روش علمی» از راه مجادله بر سر اندیشه‌ها سر برآورد.</description>
     </item>
     
     <item>
       <title>دعوای تایید فسخ قرارداد</title>
-      <link>https://fa.AYoonesi.ir/posts/%D8%AF%D8%B9%D9%88%D8%A7%DB%8C-%D8%AA%D8%A7%DB%8C%DB%8C%D8%AF-%D9%81%D8%B3%D8%AE-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</link>
+      <link>http://localhost:5555/posts/%D8%AF%D8%B9%D9%88%D8%A7%DB%8C-%D8%AA%D8%A7%DB%8C%DB%8C%D8%AF-%D9%81%D8%B3%D8%AE-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</link>
       <pubDate>Wed, 05 Jul 2023 20:00:10 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/posts/%D8%AF%D8%B9%D9%88%D8%A7%DB%8C-%D8%AA%D8%A7%DB%8C%DB%8C%D8%AF-%D9%81%D8%B3%D8%AE-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</guid>
+      <guid>http://localhost:5555/posts/%D8%AF%D8%B9%D9%88%D8%A7%DB%8C-%D8%AA%D8%A7%DB%8C%DB%8C%D8%AF-%D9%81%D8%B3%D8%AE-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF/</guid>
       <description>بحث تأیید یا فسخ قراردادها از جمله مسائل حساس در حوزه حقوق و حقوق خصوصی می‌باشد. در این مطلب، به بررسی دعوای تأیید فسخ قراردادها می‌پردازیم و چالش‌هایی که در این زمینه وجود دارد را برای شما تشریح می‌کنیم. همچنین در این مطلب به مفاهیم حقوقی اساسی و قوانین حقوقی مرتبط با این موضوع اشاره خواهیم کرد.</description>
     </item>
     
     <item>
       <title>تقابل اراده باطنی و اراده ظاهری</title>
-      <link>https://fa.AYoonesi.ir/posts/%D8%AA%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B7%D9%86%DB%8C-%D9%88-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%B8%D8%A7%D9%87%D8%B1%DB%8C/</link>
+      <link>http://localhost:5555/posts/%D8%AA%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B7%D9%86%DB%8C-%D9%88-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%B8%D8%A7%D9%87%D8%B1%DB%8C/</link>
       <pubDate>Wed, 05 Jul 2023 17:03:59 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/posts/%D8%AA%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B7%D9%86%DB%8C-%D9%88-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%B8%D8%A7%D9%87%D8%B1%DB%8C/</guid>
+      <guid>http://localhost:5555/posts/%D8%AA%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B7%D9%86%DB%8C-%D9%88-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%B8%D8%A7%D9%87%D8%B1%DB%8C/</guid>
       <description>در این مطلب، تعارض میان اراده باطنی و اراده ظاهری در انعقاد قراردادها از دیدگاه فقه امامیه و حقوق ایران مورد بررسی قرار می‌گیرد. انعقاد قراردادها به عنوان یک مسئله مهم در حقوق مدنی و حقوق بین‌الملل مورد توجه قرار می‌گیرد، زیرا تعهدات حقوقی بسیاری از معاملات و امور حقوقی از طریق انعقاد قراردادها شکل می‌گیرد. در این متن، مفهوم انعقاد قرارداد و تأثیر آن بر حقوق مدنی و قوانین کشورها مورد بررسی قرار می‌گیرد. همچنین مطالب مرتبط با عقد و اعتبار، اثرات قرارداد، اجرای آن و انحلال آن نیز مورد ارائه و تحلیل قرار می‌گیرد.</description>
     </item>
     
     <item>
       <title>معافیت از مجازات بهره در قانون ایران</title>
-      <link>https://fa.AYoonesi.ir/posts/%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%D8%A7%D8%B2-%D9%85%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A8%D9%87%D8%B1%D9%87-%D8%AF%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/</link>
+      <link>http://localhost:5555/posts/%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%D8%A7%D8%B2-%D9%85%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A8%D9%87%D8%B1%D9%87-%D8%AF%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/</link>
       <pubDate>Tue, 10 Jan 2023 16:38:34 -0400</pubDate>
       
-      <guid>https://fa.AYoonesi.ir/posts/%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%D8%A7%D8%B2-%D9%85%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A8%D9%87%D8%B1%D9%87-%D8%AF%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/</guid>
+      <guid>http://localhost:5555/posts/%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%D8%A7%D8%B2-%D9%85%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A8%D9%87%D8%B1%D9%87-%D8%AF%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/</guid>
       <description>در این مقاله، با مفهوم و تعریف بهره آشنا می‌شوید و تأثیرات آن در قانون مجازات اسلامی ایران را مورد بررسی قرار می‌دهیم. همچنین، معافیت از مجازات ربا و شرایط اعتباری برای اخذ بهره از دولت‌ها و موسسات خارجی را مورد تحلیل قرار می‌دهیم. همچنین، مواردی از قوانین مرتبط با خسارت تاخیر تادیه ارز و اجرای حکم خارجی نیز در این مقاله بیان شده است. اگر به درک بهتر مفاهیم مالی و حقوقی مرتبط با بهره در قانون ایران علاقه دارید، این مقاله برای شما مفید خواهد بود.</description>
     </item>
     

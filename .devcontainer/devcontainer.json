@@ -1,0 +1,5 @@
+{
+  "name": "Hugo 0.100.0",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "postCreateCommand": "wget https://github.com/gohugoio/hugo/releases/download/v0.100.0/hugo_extended_0.100.0_Linux-64bit.tar.gz && tar -xzf hugo_extended_0.100.0_Linux-64bit.tar.gz && sudo mv hugo /usr/local/bin/"
+}
