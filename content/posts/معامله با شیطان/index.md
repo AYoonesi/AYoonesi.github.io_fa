@@ -25,9 +25,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "image.png" # image path/url
+    alt: "Pope Sylvester II and the devil in an illustration of c. 1460." # alt text
+    caption: "Pope Sylvester II and the devil in an illustration of c. 1460." # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
