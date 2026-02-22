@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "62e865a97936c395",
+    "type": "split",
+    "children": [
+      {
+        "id": "6135e899d2849e52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d04fa45a69135dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/شرح مکاسب جلسه اول/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5948e0ea6f5473e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1614eb09b041868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65655f8943339066",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9abb82e087a57bd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "721586646354e09b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ab255ef1504965d",
+    "type": "split",
+    "children": [
+      {
+        "id": "467fd50b66bf659d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "948a51f193e3794e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/شرح مکاسب جلسه اول/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "e3986df92efa5c02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/شرح مکاسب جلسه اول/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "363e42ab082b48ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ced87541cbdf4e1d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c67adac408af2342",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/شرح مکاسب جلسه اول/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d04fa45a69135dfb",
+  "lastOpenFiles": [
+    "docs/assets/js/search.js",
+    "docs/assets/js/highlight.js",
+    "docs/assets/css/stylesheet.css",
+    "docs/assets/js",
+    "docs/assets/css",
+    "docs/assets",
+    "docs/tags/یرواند-آبراهامیان/page/1/index.html",
+    "docs/tags/گاندی/page/1/index.html",
+    "docs/tags/کمدی-الهی/page/1/index.html",
+    "docs/tags/کتب-مرجع-حقوقی/page/1/index.html",
+    "docs/tags/کتاب-البیع/page/1/index.html",
+    "docs/posts/چرا-برنامهنویسا-از-دکترا-باهوشترن/iydktbcbnmsg_hu7544472f37f6003e9baae7df8dc2f396_14690_480x0_resize_q75_h2_box_2.webp",
+    "docs/posts/چرا-برنامهنویسا-از-دکترا-باهوشترن/iydktbcbnmsg_hu7544472f37f6003e9baae7df8dc2f396_14690_360x0_resize_q75_h2_box_2.webp",
+    "docs/posts/چرا-برنامهنویسا-از-دکترا-باهوشترن/iydktbcbnmsg.webp",
+    "docs/posts/معامله-با-شیطان/image_hu394407101ebde316b4f5531b96e2ff58_595832_360x0_resize_box_3.png",
+    "docs/posts/معامله-با-شیطان/image.png",
+    "docs/posts/معافیت-از-مجازات-بهره-در-قانون-ایران/x1le4tscawwa_hu67df3d7b7082a7f66335a7729b96eef8_55891_720x0_resize_box_3.png",
+    "docs/posts/معافیت-از-مجازات-بهره-در-قانون-ایران/x1le4tscawwa_hu67df3d7b7082a7f66335a7729b96eef8_55891_480x0_resize_box_3.png",
+    "docs/posts/معافیت-از-مجازات-بهره-در-قانون-ایران/x1le4tscawwa_hu67df3d7b7082a7f66335a7729b96eef8_55891_360x0_resize_box_3.png",
+    "docs/posts/معافیت-از-مجازات-بهره-در-قانون-ایران/x1le4tscawwa_hu67df3d7b7082a7f66335a7729b96eef8_55891_1500x0_resize_box_3.png",
+    "docs/posts/معافیت-از-مجازات-بهره-در-قانون-ایران/x1le4tscawwa_hu67df3d7b7082a7f66335a7729b96eef8_55891_1080x0_resize_box_3.png",
+    "README.md",
+    "content/posts/شرح مکاسب جلسه اول/index.md"
+  ]
+}
