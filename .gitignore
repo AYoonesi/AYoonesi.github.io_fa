@@ -28,8 +28,8 @@ _testmain.go
 *.Identifier
 resources/_gen/
 public/
-docs/
-docs
+# docs/
+# docs
 
 # content.backup
 
