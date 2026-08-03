@@ -28,7 +28,12 @@ params:
   title: علیرضا یونسی
   # description: "دانش‌پژوه حقوق تعهدات، روش‌های جایگزین حل اختلاف و حقوق تجارت بین‌الملل | نویسنده دوزبانه | پیشینه متنوع: تکنولوژی، کشاورزی و اقتصاد"
   description: "پژوهشگر حقوق | حقوق تعهدات، حقوق تجارت بین‌الملل و فلسفه حقوق"
-  keywords: [علیرضا یونسی, حقوق, علوم‌انسانی, علوم انسانی,  یونسی, علیرضا, علی‌رضا, علی‌رضا یونسی, پایتون, حقوق, حقوق خصوصی, دانشجو, محقق, برنامه‌نویسی, Researcher, Developer, Farmer, Part-time Writer, English and Persian Content, Private Law, Aviation, Economics, Politics & International Relations, History, AI (Artificial Intelligence), Finance, Expertise, Multilingual Blogger, Curiosity, Knowledge Intersection, Versatile Skills, Blogging Insights, Diverse Interests, Captivating Content]
+  # keywords: [علیرضا یونسی, حقوق, علوم‌انسانی, علوم انسانی,  یونسی, علیرضا, علی‌رضا, علی‌رضا یونسی, پایتون, حقوق, حقوق خصوصی, دانشجو, محقق, برنامه‌نویسی, Researcher, Developer, Farmer, Part-time Writer, English and Persian Content, Private Law, Aviation, Economics, Politics & International Relations, History, AI (Artificial Intelligence), Finance, Expertise, Multilingual Blogger, Curiosity, Knowledge Intersection, Versatile Skills, Blogging Insights, Diverse Interests, Captivating Content]
+  keywords: [
+    "علیرضا یونسی", "علی‌رضا یونسی", "Alireza Yoonesi", "AYoonesi",
+    "حقوق تعهدات", "حقوق خصوصی", "حقوق تجارت بین‌الملل", 
+    "فلسفه حقوق", "اصول فقه", "پژوهشگر حقوق", "Private Law", "Law of Obligations"
+  ]
   author: علیرضا یونسی
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -88,7 +93,7 @@ params:
   homeInfoParams:
     Title: "علیرضا یونسی \U0001F44B"
     # Content: "محقق، توسعه‌دهنده، کشاورز، و نویسنده پاره‌وقت | علاقمند به حقوق خصوصی، هوافضا، اقتصاد، سیاست و روابط بین‌الملل، تاریخ، هوش مصنوعی، و فایننس"
-    Content: "پژوهشگر حقوق | متمرکز بر حقوق تعهدات، تجارت بین‌الملل و بررسی تحلیلی فلسفه حقوق (اصول فقه، کانت و هگل)."
+    Content: "پژوهشگر حقوق | متمرکز بر حقوق تعهدات، تجارت بین‌الملل و بررسی تحلیلی فلسفه حقوق (اصول فقه، کانت و هگل)"
     imageUrl: "images/me250x250.webp"
 
   socialIcons:
@@ -134,6 +139,46 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
+# menu:
+#   main:
+#     - identifier: about
+#       name: درباره
+#       url: /about/
+#       weight: 10
+#     - identifier: contact
+#       name: تماس با من
+#       url: /contact/
+#       weight: 10
+#     - identifier: archives
+#       name: آرشیو
+#       url: /archives/
+#       weight: 20
+#     - identifier: tags
+#       name: تگ‌ها
+#       url: /tags/
+#       weight: 10
+#     - identifier: search
+#       name: سرچ
+#       url: /search/
+#       weight: 20
+#     - identifier: google-dev
+#       name: گوگل دولوپر
+#       url: https://g.dev/AYoonesi
+#       weight: 30
+#     - identifier: google-cloud
+#       name: گوگل کلود اسکیلز
+#       url: https://www.cloudskillsboost.google/public_profiles/4fb8b8d9-6cd6-4f30-a28f-a8b9cd660127
+#       weight: 30
+#     - identifier: certs
+#       name: گواهی‌ها
+#       url: https://cert.ayoonesi.ir/
+#       weight: 40
+#     - identifier: english
+#       name: نسخه انگلیسی
+#       url: https://en.ayoonesi.ir/
+#       weight: 50
+
+
 menu:
   main:
     - identifier: about
@@ -143,35 +188,20 @@ menu:
     - identifier: contact
       name: تماس با من
       url: /contact/
-      weight: 10
+      weight: 11
     - identifier: archives
-      name: آرشیو
+      name: یادداشت‌ها
       url: /archives/
       weight: 20
     - identifier: tags
-      name: تگ‌ها
+      name: موضوعات
       url: /tags/
-      weight: 10
-    - identifier: search
-      name: سرچ
-      url: /search/
-      weight: 20
-    - identifier: google-dev
-      name: گوگل دولوپر
-      url: https://g.dev/AYoonesi
       weight: 30
-    - identifier: google-cloud
-      name: گوگل کلود اسکیلز
-      url: https://www.cloudskillsboost.google/public_profiles/4fb8b8d9-6cd6-4f30-a28f-a8b9cd660127
-      weight: 30
-    - identifier: certs
-      name: گواهی‌ها
-      url: https://cert.ayoonesi.ir/
-      weight: 40
     - identifier: english
-      name: نسخه انگلیسی
+      name: English
       url: https://en.ayoonesi.ir/
-      weight: 50
+      weight: 40
+
     
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
