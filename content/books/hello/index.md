@@ -1,5 +1,5 @@
 ---
-title: "Hello"
+title: "Hello – Comming soon"
 date: 2026-02-21T19:35:08Z
 # weight: 1
 # aliases: ["/first"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Still working on it."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
