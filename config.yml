@@ -26,7 +26,8 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: علیرضا یونسی
-  description: "دانش‌پژوه حقوق تعهدات، روش‌های جایگزین حل اختلاف و حقوق تجارت بین‌الملل | نویسنده دوزبانه | پیشینه متنوع: تکنولوژی، کشاورزی و اقتصاد"
+  # description: "دانش‌پژوه حقوق تعهدات، روش‌های جایگزین حل اختلاف و حقوق تجارت بین‌الملل | نویسنده دوزبانه | پیشینه متنوع: تکنولوژی، کشاورزی و اقتصاد"
+  description: "پژوهشگر حقوق | حقوق تعهدات، حقوق تجارت بین‌الملل و فلسفه حقوق"
   keywords: [علیرضا یونسی, حقوق, علوم‌انسانی, علوم انسانی,  یونسی, علیرضا, علی‌رضا, علی‌رضا یونسی, پایتون, حقوق, حقوق خصوصی, دانشجو, محقق, برنامه‌نویسی, Researcher, Developer, Farmer, Part-time Writer, English and Persian Content, Private Law, Aviation, Economics, Politics & International Relations, History, AI (Artificial Intelligence), Finance, Expertise, Multilingual Blogger, Curiosity, Knowledge Intersection, Versatile Skills, Blogging Insights, Diverse Interests, Captivating Content]
   author: علیرضا یونسی
   # author: ["Me", "You"] # multiple authors
@@ -69,7 +70,8 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: علیرضا یونسی
-    subtitle: "محقق، توسعه‌دهنده، کشاورز، و نویسنده پاره‌وقت | علاقمند به حقوق خصوصی، هوافضا، اقتصاد، سیاست و روابط بین‌الملل، تاریخ، هوش مصنوعی، و فایننس"
+    # subtitle: "محقق، توسعه‌دهنده، کشاورز، و نویسنده پاره‌وقت | علاقمند به حقوق خصوصی، هوافضا، اقتصاد، سیاست و روابط بین‌الملل، تاریخ، هوش مصنوعی، و فایننس"
+    subtitle: "پژوهشگر حقوق متمرکز بر حقوق تعهدات، حقوق تجارت بین‌الملل و فلسفه حقوق (کانت و هگل)"
     imageUrl: "images/me.jpg"
     imageWidth: 220
     imageHeight: 220
@@ -85,7 +87,8 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "علیرضا یونسی \U0001F44B"
-    Content: "محقق، توسعه‌دهنده، کشاورز، و نویسنده پاره‌وقت | علاقمند به حقوق خصوصی، هوافضا، اقتصاد، سیاست و روابط بین‌الملل، تاریخ، هوش مصنوعی، و فایننس"
+    # Content: "محقق، توسعه‌دهنده، کشاورز، و نویسنده پاره‌وقت | علاقمند به حقوق خصوصی، هوافضا، اقتصاد، سیاست و روابط بین‌الملل، تاریخ، هوش مصنوعی، و فایننس"
+    Content: "پژوهشگر حقوق | متمرکز بر حقوق تعهدات، تجارت بین‌الملل و بررسی تحلیلی فلسفه حقوق (اصول فقه، کانت و هگل)."
     imageUrl: "images/me250x250.webp"
 
   socialIcons:
