@@ -70,7 +70,7 @@ params:
 
   label:
     text: "صفحه اول"
-    icon: images/apple-touch-icon.png
+    icon: "images/apple-touch-icon-1.webp"
     iconHeight: 35
 
   # profile-mode
