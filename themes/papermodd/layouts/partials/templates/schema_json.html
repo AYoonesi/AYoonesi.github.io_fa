@@ -83,8 +83,9 @@
   {{- end -}}
   "datePublished": {{ .PublishDate }},
   "dateModified": {{ .Lastmod }},
-  {{- with (.Params.author | default site.Params.author) }}
-  {{- $authorURL := .Params.authorURL | default site.Params.authorURL -}}
+  {{- $page := . -}}
+  {{- $authorURL := $page.Params.authorURL | default site.Params.authorURL -}}
+  {{- with ($page.Params.author | default site.Params.author) }}
   "author":
     {{- if (or (eq (printf "%T" .) "[]string") (eq (printf "%T" .) "[]interface {}")) -}}
   [{{- range $i, $v := . -}}
@@ -98,7 +99,7 @@
     {{- else -}}
   {
     "@type": "Person",
-    "name": {{ . }}{{- with $authorURL }},
+ "name": {{ . }}{{- with $authorURL }},
     "url": {{ . | absURL }}{{- end }}
   },
     {{- end -}}

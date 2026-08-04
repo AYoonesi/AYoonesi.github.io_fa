@@ -4,7 +4,9 @@ date: 2025-03-28T22:37:43+03:30
 # weight: 1
 # aliases: ["/first"]
 tags: ["مکاسب","شیخ انصاری","فقه","متون فقه","حقوق","کتاب البیع","بیع","شرح مکاسب","شرح فارسی مکاسب","علیرضا یونسی","شرح فارسی مکاسب یونسی","","","",]
-author: "علیرضا یونسی"
+author:
+  name: "علیرضا یونسی"
+  url: "https://fa.ayoonesi.ir/about/"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
