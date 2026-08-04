@@ -172,8 +172,24 @@
 
 
 
-<link rel="preload" href="/fonts/sahel/Sahel.woff2" as="font" type="font/woff2" crossorigin> 
+<!-- <link rel="preload" href="/fonts/sahel/Sahel.woff2" as="font" type="font/woff2" crossorigin> 
 <link rel="stylesheet" href="/fonts/sahel/style.css">
 <link rel="stylesheet" href="/fonts/sahel/custom.css">
 <link rel="stylesheet" href="/fonts/UnifrakturMaguntia/custom.css">
+<a rel="me" href="https://sciences.social/@ayoonesi" hidden>Mastodon</a> -->
+
+{{- /* Preload primary font file */}}
+<link rel="preload" href="/fonts/sahel/Sahel.woff2" as="font" type="font/woff2" crossorigin> 
+
+{{- /* Non-blocking external font CSS */}}
+<link rel="preload" href="/fonts/sahel/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="/fonts/sahel/custom.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="/fonts/UnifrakturMaguntia/custom.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<noscript>
+    <link rel="stylesheet" href="/fonts/sahel/style.css">
+    <link rel="stylesheet" href="/fonts/sahel/custom.css">
+    <link rel="stylesheet" href="/fonts/UnifrakturMaguntia/custom.css">
+</noscript>
+
 <a rel="me" href="https://sciences.social/@ayoonesi" hidden>Mastodon</a>

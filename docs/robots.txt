@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://fa.AYoonesi.ir/sitemap.xml
+Sitemap: http://localhost:5555/sitemap.xml
