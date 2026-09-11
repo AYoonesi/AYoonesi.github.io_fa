@@ -2,31 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>First on علیرضا یونسی | حقوق‌دان و پژوهشگر</title>
-    <link>http://localhost:5000/tags/first/</link>
+    <link>http://localhost:5055/tags/first/</link>
     <description>Recent content in First on علیرضا یونسی | حقوق‌دان و پژوهشگر</description>
     <image>
       <title>علیرضا یونسی | حقوق‌دان و پژوهشگر</title>
-      <url>http://localhost:5000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:5000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:5055/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:5055/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
-    <lastBuildDate>Fri, 04 Sep 2026 22:14:18 +0330</lastBuildDate><atom:link href="http://localhost:5000/tags/first/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>مسئولیت شخصی در دوران دیکتاتوری</title>
-      <link>http://localhost:5000/posts/personal-responsibility-under-dictatorship/</link>
-      <pubDate>Fri, 04 Sep 2026 22:14:18 +0330</pubDate>
-      
-      <guid>http://localhost:5000/posts/personal-responsibility-under-dictatorship/</guid>
-      <description>مسئولیت شخصی در دوران دیکتاتوری مقالهٔ مفصل و تاریخیِ هانا آرنت است در پاسخ به امواجِ انتقادات و نیز بدگویی‌ها دربارهٔ کتاب مشهورش آیشمان در اورشلیم. آرنت در این مقاله پرسش‌های بیشتری طرح می‌کند و به هر کدام پاسخ می‌دهد: مرز «مسئولیت شخصی» و «مسئولیت حقوقی» کجاست؟ افرادی که با حکومت‌های توتالیتر و خودکامه همکاری می‌کنند چه توجیهی برای خود دارند؟ شرّ چگونه مبتذل و پیش‌پاافتاده می‌شود؟ چه چیز باعث می‌شود که دیگر شهروندان به تبعیض و سرکوب نه بگویند و بدل به پیچ و مهرهٔ ماشین حکومت توتالیتر نشوند؟</description>
-    </item>
-    
+    <lastBuildDate>Sat, 21 Feb 2026 19:35:08 +0000</lastBuildDate><atom:link href="http://localhost:5055/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello – Comming soon</title>
-      <link>http://localhost:5000/books/hello/</link>
+      <link>http://localhost:5055/books/hello/</link>
       <pubDate>Sat, 21 Feb 2026 19:35:08 +0000</pubDate>
       
-      <guid>http://localhost:5000/books/hello/</guid>
+      <guid>http://localhost:5055/books/hello/</guid>
       <description>Still working on it.</description>
     </item>
     
