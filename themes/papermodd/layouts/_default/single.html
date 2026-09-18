@@ -64,13 +64,40 @@
 </div>
 
 <!-- QR Code Section -->
+<!-- Old QR Code generation that used an external API - abandoned
 <div class="paginav" style="display: flex; justify-content: center; align-items: center;">
   <div class="float-child">
     <div class="blue" style="padding: 12px; background-color: #F7F9F9; border-radius: 12px; box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.08);">
       <img src="https://api.qrserver.com/v1/create-qr-code/?data={{ .Page.Permalink }}&size=350x350" alt="QR Code" style="max-width: 250px;">
     </div>
   </div>
+</div> -->
+
+<!-- The new QR Code generation methode - uses JS inside the browser -->
+<div class="paginav" style="display: flex; justify-content: center; align-items: center;">
+  <div class="float-child">
+    <div class="blue" style="padding: 12px; background-color: #F7F9F9; border-radius: 12px; box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.08);">
+      <!-- The container for the QR code -->
+      <div id="page-qrcode" style="width: 250px; height: 250px;"></div>
+    </div>
+  </div>
 </div>
+<!-- Load the qrcodejs library -->
+<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+<!-- Generate the QR code -->
+<script>
+  new QRCode(document.getElementById("page-qrcode"), {
+    text: "{{ .Page.Permalink }}", // Your static site generator will inject the URL here
+    width: 250,
+    height: 250,
+    colorDark: "#000000",
+    colorLight: "#F7F9F9", // Matched to your container's background color for a seamless look
+    correctLevel: QRCode.CorrectLevel.H
+  });
+</script>
+
+
+
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}
