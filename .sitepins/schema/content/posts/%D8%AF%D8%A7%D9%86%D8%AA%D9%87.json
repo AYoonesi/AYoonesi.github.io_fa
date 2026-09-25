@@ -1,7 +1,17 @@
 {
   "file": "content/posts/دانته/index.md",
-  "name": "%D8%AF%D8%A7%D9%86%D8%AA%D9%87",
   "fileType": "md",
   "fmType": "yaml",
-  "template": []
+  "template": [
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "description": "",
+      "isIgnored": false,
+      "isRequired": true,
+      "defaultValue": ""
+    }
+  ]
 }
