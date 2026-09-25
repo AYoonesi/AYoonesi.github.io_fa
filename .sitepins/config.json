@@ -1,0 +1,10 @@
+{
+  "content": "content",
+  "media": "static/images",
+  "public": "static",
+  "configs": [
+    "config.yml"
+  ],
+  "custom-commit": false,
+  "arrangement": []
+}
