@@ -3,11 +3,6 @@
 # =========================================================
 
 media:
-
-  # -------------------------------------------------------
-  # Post images
-  # -------------------------------------------------------
-
   - name: post_images
     label: تصاویر مطالب
     input: static/images/posts
@@ -21,10 +16,6 @@ media:
       - svg
     rename: safe
 
-  # -------------------------------------------------------
-  # General images
-  # -------------------------------------------------------
-
   - name: general_images
     label: تصاویر عمومی
     input: static/images/general
@@ -36,11 +27,8 @@ media:
       - webp
       - gif
       - svg
+    rename: safe
 
-
-# =========================================================
-# Content
-# =========================================================
 
 content:
 
@@ -56,58 +44,87 @@ content:
     format: yaml-frontmatter
     subfolders: true
 
-    # -----------------------------------------------------
-    # Filename / slug
-    #
-    # The user enters something like:
-    # "Problem of language in politics"
-    #
-    # Pages CMS slugifies it to:
-    # "problem-of-language-in-politics"
-    #
-    # Result:
-    # content/posts/problem-of-language-in-politics/index.md
-    # -----------------------------------------------------
-
-    filename:
-      template: "{fields.slug}/index.md"
-      field: create
+    # Creates:
+    # content/posts/my-post/index.md
+    filename: "{slug}/index.md"
 
     operations:
       create: true
       rename: true
       delete: true
 
-    # -----------------------------------------------------
-    # Collection view
-    # -----------------------------------------------------
+    # view:
+    #   layout: tree
+
+    #   node:
+    #     filename: index.md
+
+    #   primary: title
+
+    #   fields:
+    #     - title
+    #     - date
+    #     - draft
+    #     - tags
+
+    #   sort:
+    #     - date
+    #     - title
+
+    #   default:
+    #     sort: date
+    #     order: desc
+
+    # view:
+    #   layout: list
+    #   primary: title
+    #   fields:
+    #     - title
+    #     - date
+    #     - draft
+    #     - tags
+    #   sort:
+    #     - date
+    #     - title
+    #   default:
+    #     sort: date
+    #     order: desc
+
+    # view:
+    #   layout: tree
+    #   node:
+    #     filename: index.md
+    #     hideDirs: others
+    #   primary: title
+    #   fields:
+    #     - title
+    #     - date
+    #     - draft
+    #     - tags
+    #   sort:
+    #     - date
+    #     - title
+    #   default:
+    #     sort: date
+    #     order: desc
 
     view:
       layout: tree
-
       node:
         filename: index.md
         hideDirs: nodes
-
       primary: title
-
       fields:
         - title
         - date
         - draft
         - tags
-
       sort:
         - date
         - title
-
       default:
         sort: date
         order: desc
-
-    # =====================================================
-    # Fields
-    # =====================================================
 
     fields:
 
@@ -120,13 +137,20 @@ content:
         type: string
         required: true
 
-      - name: slug
-        label: اسلاگ
-        type: string
-        required: true
-        options:
-          minlength: 3
-          maxlength: 120
+      # - name: date
+      #   label: تاریخ
+      #   type: date
+      #   required: true
+      #   options:
+      #     time: true
+
+      # - name: date
+      #   label: تاریخ
+      #   type: date
+      #   required: true
+      #   options:
+      #     time: true
+      #     format: "yyyy-MM-dd'T'HH:mm:ssXXX"
 
       - name: date
         label: تاریخ
@@ -150,7 +174,6 @@ content:
         type: string
         list: true
 
-
       # ---------------------------------------------------
       # Publication
       # ---------------------------------------------------
@@ -173,7 +196,6 @@ content:
       - name: canonicalURL
         label: Canonical URL
         type: string
-
 
       # ---------------------------------------------------
       # PaperMod
@@ -239,7 +261,6 @@ content:
         type: boolean
         default: true
 
-
       # ---------------------------------------------------
       # Cover
       # ---------------------------------------------------
@@ -282,7 +303,6 @@ content:
             type: boolean
             default: false
 
-
       # ---------------------------------------------------
       # Edit link
       # ---------------------------------------------------
@@ -307,7 +327,6 @@ content:
             label: افزودن مسیر فایل
             type: boolean
             default: true
-
 
       # ---------------------------------------------------
       # Article body
