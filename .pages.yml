@@ -53,24 +53,39 @@ content:
       rename: true
       delete: true
 
+    # view:
+    #   layout: tree
+
+    #   node:
+    #     filename: index.md
+
+    #   primary: title
+
+    #   fields:
+    #     - title
+    #     - date
+    #     - draft
+    #     - tags
+
+    #   sort:
+    #     - date
+    #     - title
+
+    #   default:
+    #     sort: date
+    #     order: desc
+
     view:
-      layout: tree
-
-      node:
-        filename: index.md
-
+      layout: list
       primary: title
-
       fields:
         - title
         - date
         - draft
         - tags
-
       sort:
         - date
         - title
-
       default:
         sort: date
         order: desc
@@ -86,12 +101,28 @@ content:
         type: string
         required: true
 
+      # - name: date
+      #   label: تاریخ
+      #   type: date
+      #   required: true
+      #   options:
+      #     time: true
+
+      # - name: date
+      #   label: تاریخ
+      #   type: date
+      #   required: true
+      #   options:
+      #     time: true
+      #     format: "yyyy-MM-dd'T'HH:mm:ssXXX"
+
       - name: date
         label: تاریخ
         type: date
         required: true
         options:
           time: true
+          format: "yyyy-MM-dd'T'HH:mm:ssXXX"
 
       - name: author
         label: نویسنده
