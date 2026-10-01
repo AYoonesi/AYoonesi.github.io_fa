@@ -12,7 +12,7 @@ tags:
   - تفاوت مشاهده و داوری
   - هویت جمعی
   - علیرضا یونسی
-draft: false
+draft: true
 hidemeta: false
 comments: false
 showToc: true
