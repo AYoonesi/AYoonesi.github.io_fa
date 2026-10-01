@@ -1,0 +1,293 @@
+# =========================================================
+# Pages CMS configuration
+# =========================================================
+
+media:
+  - name: post_images
+    label: تصاویر مطالب
+    input: static/images/posts
+    output: /images/posts
+    extensions:
+      - jpg
+      - jpeg
+      - png
+      - webp
+      - gif
+      - svg
+    rename: safe
+
+  - name: general_images
+    label: تصاویر عمومی
+    input: static/images/general
+    output: /images/general
+    extensions:
+      - jpg
+      - jpeg
+      - png
+      - webp
+      - gif
+      - svg
+    rename: safe
+
+
+content:
+
+  # =======================================================
+  # Posts
+  # =======================================================
+
+  - name: posts
+    label: یادداشت‌ها
+    type: collection
+    path: content/posts
+
+    format: yaml-frontmatter
+    subfolders: true
+
+    # Creates:
+    # content/posts/my-post/index.md
+    filename: "{slug}/index.md"
+
+    operations:
+      create: true
+      rename: true
+      delete: true
+
+    view:
+      layout: tree
+
+      node:
+        filename: index.md
+
+      primary: title
+
+      fields:
+        - title
+        - date
+        - draft
+        - tags
+
+      sort:
+        - date
+        - title
+
+      default:
+        sort: date
+        order: desc
+
+    fields:
+
+      # ---------------------------------------------------
+      # Basic front matter
+      # ---------------------------------------------------
+
+      - name: title
+        label: عنوان
+        type: string
+        required: true
+
+      - name: date
+        label: تاریخ
+        type: date
+        required: true
+        options:
+          time: true
+
+      - name: author
+        label: نویسنده
+        type: string
+        default: "علیرضا یونسی"
+
+      - name: description
+        label: توضیحات
+        type: text
+
+      - name: tags
+        label: برچسب‌ها
+        type: string
+        list: true
+
+      # ---------------------------------------------------
+      # Publication
+      # ---------------------------------------------------
+
+      - name: draft
+        label: پیش‌نویس
+        type: boolean
+        default: false
+
+      - name: hidemeta
+        label: مخفی کردن اطلاعات مطلب
+        type: boolean
+        default: false
+
+      - name: comments
+        label: نظرات
+        type: boolean
+        default: false
+
+      - name: canonicalURL
+        label: Canonical URL
+        type: string
+
+      # ---------------------------------------------------
+      # PaperMod
+      # ---------------------------------------------------
+
+      - name: showToc
+        label: نمایش فهرست مطالب
+        type: boolean
+        default: true
+
+      - name: TocOpen
+        label: باز بودن فهرست مطالب
+        type: boolean
+        default: false
+
+      - name: disableHLJS
+        label: غیرفعال کردن Highlight.js
+        type: boolean
+        default: false
+
+      - name: disableShare
+        label: غیرفعال کردن اشتراک‌گذاری
+        type: boolean
+        default: false
+
+      - name: hideSummary
+        label: مخفی کردن خلاصه
+        type: boolean
+        default: false
+
+      - name: searchHidden
+        label: مخفی کردن از جست‌وجو
+        type: boolean
+        default: true
+
+      - name: ShowReadingTime
+        label: نمایش زمان مطالعه
+        type: boolean
+        default: true
+
+      - name: ShowBreadCrumbs
+        label: نمایش Breadcrumb
+        type: boolean
+        default: true
+
+      - name: ShowPostNavLinks
+        label: نمایش لینک مطالب قبلی و بعدی
+        type: boolean
+        default: true
+
+      - name: ShowWordCount
+        label: نمایش تعداد کلمات
+        type: boolean
+        default: true
+
+      - name: ShowRssButtonInSectionTermList
+        label: نمایش RSS
+        type: boolean
+        default: true
+
+      - name: UseHugoToc
+        label: استفاده از Hugo TOC
+        type: boolean
+        default: true
+
+      # ---------------------------------------------------
+      # Cover
+      # ---------------------------------------------------
+
+      - name: cover
+        label: تصویر اصلی
+        type: object
+
+        fields:
+
+          - name: image
+            label: تصویر
+            type: image
+
+            options:
+              media: post_images
+              extensions:
+                - jpg
+                - jpeg
+                - png
+                - webp
+                - gif
+                - svg
+
+          - name: alt
+            label: متن جایگزین
+            type: string
+
+          - name: caption
+            label: توضیح تصویر
+            type: string
+
+          - name: relative
+            label: مسیر نسبی
+            type: boolean
+            default: false
+
+          - name: hidden
+            label: مخفی
+            type: boolean
+            default: false
+
+      # ---------------------------------------------------
+      # Edit link
+      # ---------------------------------------------------
+
+      - name: editPost
+        label: ویرایش مطلب
+        type: object
+
+        fields:
+
+          - name: URL
+            label: URL
+            type: string
+            default: "https://github.com/AYoonesi/AYoonesi.github.io_fa/tree/main/content"
+
+          - name: Text
+            label: متن
+            type: string
+            default: "پیشنهاد تغییرات"
+
+          - name: appendFilePath
+            label: افزودن مسیر فایل
+            type: boolean
+            default: true
+
+      # ---------------------------------------------------
+      # Article body
+      # ---------------------------------------------------
+
+      - name: body
+        label: متن یادداشت
+        type: rich-text
+
+        options:
+          format: markdown
+          media: post_images
+          switcher: true
+
+          extensions:
+            - jpg
+            - jpeg
+            - png
+            - webp
+            - gif
+            - svg
+
+
+# =========================================================
+# Preserve front-matter keys not managed by Pages CMS
+# =========================================================
+
+settings:
+
+  content:
+    merge: true
