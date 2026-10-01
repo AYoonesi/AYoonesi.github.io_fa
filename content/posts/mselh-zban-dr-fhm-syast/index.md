@@ -30,6 +30,7 @@ editPost:
   URL: https://github.com/AYoonesi/AYoonesi.github.io_fa/tree/main/content
   Text: پیشنهاد تغییرات
   appendFilePath: true
+slug: Language in Politics Problem
 ---
 ### ۱. مقدمه: وقتی داوری را جای واقعیت می‌نشانیم
 
