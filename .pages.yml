@@ -75,8 +75,26 @@ content:
     #     sort: date
     #     order: desc
 
+    # view:
+    #   layout: list
+    #   primary: title
+    #   fields:
+    #     - title
+    #     - date
+    #     - draft
+    #     - tags
+    #   sort:
+    #     - date
+    #     - title
+    #   default:
+    #     sort: date
+    #     order: desc
+
     view:
-      layout: list
+      layout: tree
+      node:
+        filename: index.md
+        hideDirs: others
       primary: title
       fields:
         - title
