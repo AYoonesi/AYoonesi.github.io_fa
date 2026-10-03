@@ -83,3 +83,15 @@ editPost:
 
 ![](/images/posts/14770.jpg)
 
+
+
+&nbsp;
+
+سابقا اولین اپیزود از این اشارات به متون کهن را [اینجا](https://ayoonesii.blogspot.com/2024/04/blog-post_18.html) منتشر کرده‌ام:
+
+**[متون کهن (۱): جز یاد دوست هر چه کنی عمر ضایع است / جز سر عشق هر چه بگویی بطالت است](https://ayoonesii.blogspot.com/2024/04/blog-post_18.html)**
+
+> آخر مصطفی صلی اللهّ علیه و سلمّ برای آنک انگشتری را در انگشت خود بگردانید عتاب آمد که تو را برای تعطیل و بازی نیافریدیم ازینجا قیاس کن که روز تو در معصیت می‌گذرد یا در طاعت؟! [فقه ما فیه]
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoL8m29l2WSTTUA0cVqzFlAyFWg-MTiXZl9xOrY0SG3CkDhBdBiKQtvUR9TCfkpmrpqw_tG6I08c-08z2IOnKsXTTj0xXQlQUIyhYIUzAU7htGagZcyI7Avju4FeKXPu4EqviD8fFcKtq_Zhp-d15oGinVXkOKTrGnGq6waEhztXlzjGEcnKrnMyDCJ7ka/s1382/92bd3389c85d49ff885b191392e0779f.webp)
+
