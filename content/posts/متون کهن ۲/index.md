@@ -21,6 +21,9 @@ tags:
   - حافظ
   - سعدی
   - علیرضا یونسی
+  - تاریخ بیهقی
+  - مولانا
+  - دکتر سرگلزایی
 draft: false
 hidemeta: false
 comments: false
